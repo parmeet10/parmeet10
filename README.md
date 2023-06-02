@@ -13,7 +13,7 @@
 
 
 <!-- MY-LATEST-BLOGS-LIST:START -->
-<!-- MY-LATEST-BLOG-LIST:END --> 
+<!-- MY-LATEST-BLOGS-LIST:END -->
 
 ---
 
