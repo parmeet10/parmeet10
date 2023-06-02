@@ -12,8 +12,8 @@
 ---
 
 
-<!-- MY-LATEST_BLOGS-LIST:START -->
-<!-- MY-LATEST_BLOG-LIST:END --> 
+<!-- MY-LATEST-BLOGS-LIST:START -->
+<!-- MY-LATEST-BLOG-LIST:END --> 
 
 ---
 
