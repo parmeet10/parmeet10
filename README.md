@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🔆 About Me:
 💻 I am a software development engineer at WeDevx<br><br>🔭 I've worked with companies that deal with Ai and e-learning<br><br>☘️ I enjoy developing data-intensive, scalable apps<br><br>🔖 part-time blog author<br>
 
 
@@ -18,6 +18,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=parmeet10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=parmeet10&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parmeet10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# 📚 LeetCode Stats:
+[![LeetCode Stats](https://leetcode.card.workers.dev/parmeet10?theme=dark&font=baloo&extension=activity)](https://leetcode.com/parmeet10/)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=parmeet10&theme=radical&no-frame=true&no-bg=false&margin-w=4)
