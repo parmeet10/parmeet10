@@ -17,6 +17,13 @@
 - [Streamlining User Authentication: A Guide to Implementing Apple Sign-In](https://medium.com/@sparmeet162000/streamlining-user-authentication-a-guide-to-implementing-apple-sign-in-3727a2196854?source=rss-cb824e6e7d24------2)
 <!-- MY-LATEST-BLOGS-LIST:END -->
 
+# 📦 My packages
+<!-- MY-LATEST-packages-LIST:START -->
+- [curl-logger](https://www.npmjs.com/package/curl-logger)
+- [rate-limiter-pro](https://medium.com/@sparmeet162000/in-depth-explanation-of-how-dns-works-cad5ca8ac2b5?source=rss-cb824e6e7d24------2](https://www.npmjs.com/package/rate-limiter-pro))
+<!-- MY-LATEST-BLOGS-LIST:END -->
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=parmeet10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=parmeet10&theme=dark&hide_border=false)<br/>
