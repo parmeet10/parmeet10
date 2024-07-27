@@ -18,10 +18,10 @@
 <!-- MY-LATEST-BLOGS-LIST:END -->
 
 # 📦 My packages
-<!-- MY-LATEST-packages-LIST:START -->
+<!-- MY-LATEST-PACKAGES-LIST:START -->
 - [curl-logger](https://www.npmjs.com/package/curl-logger)
-- [rate-limiter-pro](https://medium.com/@sparmeet162000/in-depth-explanation-of-how-dns-works-cad5ca8ac2b5?source=rss-cb824e6e7d24------2](https://www.npmjs.com/package/rate-limiter-pro))
-<!-- MY-LATEST-BLOGS-LIST:END -->
+- [rate-limiter-pro](https://www.npmjs.com/package/rate-limiter-pro)
+<!-- MY-LATEST-PACKAGES-LIST:END -->
 
 
 # 📊 GitHub Stats:
