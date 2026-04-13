@@ -13,6 +13,7 @@
 ### 👾 About Me
 
 - 💼 **SDE** at **WeDevx** — AI & e-learning platforms
+- 🎓 Pursuing **MS in Computer Science** at **FAU Erlangen-Nürnberg, Germany**
 - 🏗️ I architect data-intensive, scalable backend systems
 - ✍️ Part-time technical writer on [Medium](https://medium.com/@sparmeet162000)
 - 📦 Published **2 open-source npm packages** used in production
@@ -105,14 +106,15 @@
 
 ---
 
-### 📦 Open Source Packages
+### 🚀 Open Source Projects
 
 <div align="center">
 
-| Package | Description |
-|---|---|
-| [`curl-logger`](https://www.npmjs.com/package/curl-logger) | 🔍 Log HTTP requests as cURL commands for easy debugging |
-| [`rate-limiter-pro`](https://www.npmjs.com/package/rate-limiter-pro) | 🚦 Production-grade rate limiting middleware for Node.js |
+| Project | Description | Stack |
+|---|---|---|
+| [**solveWatchAi**](https://github.com/parmeet10/solveWatchAi) | 🤖 Real-time AI interview assistant for macOS — listens to interviewer questions, transcribes locally via on-device Whisper (Apple MLX), and displays AI-generated answers in a stealth overlay invisible during screen sharing. Supports OpenAI, Groq, Gemini & Claude with automatic fallback. | Node.js · Python · Whisper · MLX |
+| [**curl-logger**](https://www.npmjs.com/package/curl-logger) | 🔍 npm package — log HTTP requests as cURL commands for easy debugging | Node.js |
+| [**rate-limiter-pro**](https://www.npmjs.com/package/rate-limiter-pro) | 🚦 npm package — production-grade rate limiting middleware for Node.js | Node.js |
 
 </div>
 
