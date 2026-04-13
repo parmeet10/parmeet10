@@ -12,7 +12,6 @@
 
 ### 👾 About Me
 
-- 💼 **SDE** at **WeDevx** — AI & e-learning platforms
 - 🎓 Pursuing **MS in Computer Science** at **FAU Erlangen-Nürnberg, Germany**
 - 🏗️ I architect data-intensive, scalable backend systems
 - ✍️ Part-time technical writer on [Medium](https://medium.com/@sparmeet162000)
