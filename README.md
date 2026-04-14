@@ -118,13 +118,11 @@
 ### 📝 Latest Blog Posts
 
 <!-- MY-LATEST-BLOGS-LIST:START -->
-| | Article |
-|---|---|
-| 🚦 | [From Chaos to Control: The Magic of Rate Limiting Algorithms](https://medium.com/@sparmeet162000/from-chaos-to-control-the-magic-of-rate-limiting-algorithms-cc6863eaaae9?source=rss-cb824e6e7d24------2) |
-| 🌐 | [In-Depth Explanation of How DNS Works](https://medium.com/@sparmeet162000/in-depth-explanation-of-how-dns-works-cad5ca8ac2b5?source=rss-cb824e6e7d24------2) |
-| ⚡ | [Fastify vs Express Revealed](https://medium.com/@sparmeet162000/fastify-vs-express-revealed-d63c5598e4b3?source=rss-cb824e6e7d24------2) |
-| 🤖 | [Enabling effortless interaction with ChatGPT from a Node.js server](https://medium.com/@sparmeet162000/enabling-effortless-interaction-with-chatgpt-from-a-node-js-server-6cb41f8aa667?source=rss-cb824e6e7d24------2) |
-| 🍎 | [Streamlining User Authentication: A Guide to Implementing Apple Sign-In](https://medium.com/@sparmeet162000/streamlining-user-authentication-a-guide-to-implementing-apple-sign-in-3727a2196854?source=rss-cb824e6e7d24------2) |
+- [I Cracked a 25 LPA Offer as a Broke CS Student. Here’s the Tool I Built to Do It.](https://medium.com/@sparmeet162000/i-cracked-a-25-lpa-offer-as-a-broke-cs-student-heres-the-tool-i-built-to-do-it-c9f2db5ddc64?source=rss-cb824e6e7d24------2)
+- [From Chaos to Control: The Magic of Rate Limiting Algorithms](https://medium.com/@sparmeet162000/from-chaos-to-control-the-magic-of-rate-limiting-algorithms-cc6863eaaae9?source=rss-cb824e6e7d24------2)
+- [In-Depth Explanation of How DNS Works](https://medium.com/@sparmeet162000/in-depth-explanation-of-how-dns-works-cad5ca8ac2b5?source=rss-cb824e6e7d24------2)
+- [Fastify vs Express Revealed](https://medium.com/@sparmeet162000/fastify-vs-express-revealed-d63c5598e4b3?source=rss-cb824e6e7d24------2)
+- [Enabling effortless interaction with ChatGPT from a Node.js server](https://medium.com/@sparmeet162000/enabling-effortless-interaction-with-chatgpt-from-a-node-js-server-6cb41f8aa667?source=rss-cb824e6e7d24------2)
 <!-- MY-LATEST-BLOGS-LIST:END -->
 
 ---
